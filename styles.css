@@ -1,0 +1,152 @@
+html, body {
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  font: 13px/1.6 "Helvetica Neue", helvetica, verdana, arial, sans-serif;
+  margin: 2px;
+  overflow-y: scroll;
+  line-height: 17px;
+}
+img {
+  max-width: 100%;
+}
+header {
+    padding-top:4px;
+}
+header .vijaytaxiwala{
+  max-width:975px;
+  display: flex;
+  position: relative;
+}
+header .maheshkajol{
+  border-bottom: solid mediumpurple;
+  width:100%;
+}
+header .expressions {
+  width:50%;
+  float:right;
+  padding-left:98px;
+}
+header .brightfuture{
+  width:90%;
+  text-align: right;
+  float: right;
+  padding-right:98px;
+}
+header .brightfuture.lovemyfamily{
+  padding-bottom:10px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+header .brightfuture .agnisakshi{
+  font-size:15px;
+  font-weight: normal;
+  line-height: 21px;
+}
+header .savyasachi {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border-radius: 50%;
+  display: inline-block;
+  width:80px;
+  height:80px;
+}
+h2.bikeriding {
+  text-transform: uppercase;
+  margin: 1.69rem 0;
+  border-bottom: solid mediumpurple;
+  line-height: 0px;
+  font-weight: normal;
+  color:yellow;
+}
+h2.bikeriding span{
+  background: #eee;
+  padding-right:10px;
+  color:indigo;
+}
+.vijaytaxiwala {
+  max-width:980px;
+  margin: 0 auto;
+  padding:10px 20px;
+}
+#ramakrishna {
+  display: flex; 
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -webkit-flex-flow: row wrap;
+}
+#ramakrishna .indiaismycountry{
+  background: #fff;
+  width: 32%;
+  margin-bottom:2%;
+  text-align: left;
+  box-shadow: 0 2px 0 #D9E1E7;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  border-radius: 3px;
+}
+#ramakrishna .indiaismycountry img{
+  border-radius: 3px 3px 0 0;
+}
+#ramakrishna .indiaismycountry .mentalenvironment{
+  padding: 1.25rem;
+}
+#ramakrishna .indiaismycountry h3 {
+  font-size:18px;
+  color:#444;
+}
+#ramakrishna .indiaismycountry:nth-child(3n-1) {
+  margin-right:2%;
+  margin-left:2%;
+}
+footer {
+  max-width:979px;
+  margin:0 auto;
+  padding:10px 10px;
+  text-align:right;
+  font-size:20px;
+}
+@media screen and (min-width: 600px) and (max-width: 850px)  {
+  #ramakrishna .indiaismycountry{
+    width:49%;
+  }
+  #ramakrishna .indiaismycountry:nth-child(odd) {
+    margin-right:2%;
+    margin-left:0px;
+  }
+  #ramakrishna .indiaismycountry:nth-child(even) {
+    margin-right:0px;
+    margin-left:0px;
+  }
+}    
+@media screen and (max-width: 600px)  {
+  #ramakrishna .indiaismycountry{
+    width:97%;
+    margin-bottom:5px;
+  }
+}
+.normalmodepower{
+	font-size:17px;
+	color:midnightblue;
+}
+body{
+background-color:aliceblue;
+}
+.lovemyfamily{
+color:brown;
+}
+.agnisakshi{
+font-size:36px;
+color:olive;
+}
+h2{
+color:lightseagreen;
+}
+#somethingnothing{
+color:black;
+}
