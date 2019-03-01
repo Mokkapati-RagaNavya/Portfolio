@@ -1,9 +1,10 @@
 # Portfolio
-
+#### project rubric the page at minimum includes all of the following:
+* 
 # Portfolio-website
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
-## My main focus for this project
+### My main focus for this project
 My focus has been directed toward writing readable HTML5 and CSS that would use proper elements, classes and ids, as well as just-enough styling rules that would complement bootstrap and other technologies utilized. This project runs in modern browsers including IE, Mozilla Firefox, Google Chrome, and Edge.
 
 ### Technologies utilized
@@ -19,12 +20,7 @@ My focus has been directed toward writing readable HTML5 and CSS that would use 
 * Ajusting the design according to the project.
 * Larnt using new HTML5 tags such as *header*, *aside*, *main*, *section*, *article*, and *footer*.
 * Targeting class and ids with regex in CSS
-* Deepening my comprehension on how to use the Chrome Developer Tool 
 * Creating hover transitions with CSS
 * Writing markdown documents
 * Properly organizing CSS files (in a logical way)
 * Manipulating files with Gulp
-
-
-## Portfolio preview - Mobile, tablet, and desktop views
-<img title="Mobile view" style="display:inline-block;padding-right:30px;" src="https://raw.githubusercontent.com/MichelML/Portfolio_Project1_Udacity_Nanodegree/master/previewmobile.png" width="266px">&nbsp;&nbsp;&nbsp;<img title="Tablet portrait view" style="display:inline-block;" src="https://raw.githubusercontent.com/MichelML/Portfolio_Project1_Udacity_Nanodegree/master/previewtablet.png" width="266px">&nbsp;&nbsp;&nbsp;<img title="Desktop and tablet landscape view" style="display:inline-block;" src="https://raw.githubusercontent.com/MichelML/Portfolio_Project1_Udacity_Nanodegree/master/previewdesktop.png" width="2
