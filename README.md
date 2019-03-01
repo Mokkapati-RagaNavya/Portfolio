@@ -1,6 +1,7 @@
 # Portfolio
 #### project rubric the page at minimum includes all of the following:
-* 
+* at least 5 images
+* title text
 # Portfolio-website
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
