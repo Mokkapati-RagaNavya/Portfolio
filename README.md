@@ -17,7 +17,7 @@ My focus has been directed toward writing readable HTML5 and CSS that would use 
 * Creating a  footer
 * Playing with media queries for different rendering depending on which device is used and device orientation (portait vs. landscape)
 * Ajusting the design according to the project.
-* Using new HTML5 tags such as *header*, *aside*, *main*, *section*, *article*, and *footer*
+* Larnt using new HTML5 tags such as *header*, *aside*, *main*, *section*, *article*, and *footer*.
 * Targeting class and ids with regex in CSS
 * Deepening my comprehension on how to use the Chrome Developer Tool 
 * Creating hover transitions with CSS
