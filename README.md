@@ -2,6 +2,9 @@
 #### project rubric the page at minimum includes all of the following:
 * at least 5 images
 * title text
+* paragraph text
+* semantic HTML
+* HTML5 Semantic tags such as '''<header>,<footer>,<article>,<section>''' are used to add meaning to the code.
 # Portfolio-website
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
