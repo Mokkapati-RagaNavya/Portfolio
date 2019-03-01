@@ -4,7 +4,7 @@
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
 ## My main focus for this project
-My focus has been directed toward writing readable HTML5 and CSS that would use proper elements, classes and ids, as well as just-enough styling rules that would complement bootstrap and other technologies utilized. This project should be rendered quite similarly in all modern browsers including IE, Mozilla Firefox, Google Chrome, and Edge.
+My focus has been directed toward writing readable HTML5 and CSS that would use proper elements, classes and ids, as well as just-enough styling rules that would complement bootstrap and other technologies utilized. This project runs in modern browsers including IE, Mozilla Firefox, Google Chrome, and Edge.
 
 ### Technologies utilized
 * [Bootstrap](https://getbootstrap.com/) - for grid-based and responsive design, and image responsiveness
@@ -13,8 +13,8 @@ My focus has been directed toward writing readable HTML5 and CSS that would use 
 * [Freepik](http://www.flaticon.com/authors/freepik) icons - for nicely designed social icons
 
 ### What I learned from this project
-* Creating a sidebar
-* Creating a sticky footer
+* Creating a responsive website
+* Creating a  footer
 * Playing with media queries for different rendering depending on which device is used and device orientation (portait vs. landscape)
 * Ajusting the design for cross-browser compatibility
 * Using new HTML5 tags such as *header*, *aside*, *main*, *section*, *article*, and *footer*
