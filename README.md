@@ -12,6 +12,9 @@
 ### HTML Style Rules:
 * HTML documents use HTML5 <!doctype html>
 * code passes HTML and CSS validators
+### CSS Style Rules:
+* Code uses both classes and ids.
+* Code uses shorthand properties wherever possible
 # Portfolio-website
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
