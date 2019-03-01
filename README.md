@@ -9,6 +9,8 @@
 * viewport meta tag.
 * viewport meta tag is included in the head tag of the HTML.
 * Responsive images
+# HTML Style Rules
+
 # Portfolio-website
 * The goal was to create a responsive web page describing some design work I have done in the past.
 
