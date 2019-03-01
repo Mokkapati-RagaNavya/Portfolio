@@ -1,7 +1,7 @@
 # Portfolio
 
-#Portfolio-website
-The goal was to create a responsive web page describing some design work I have done in the past.
+# Portfolio-website
+* The goal was to create a responsive web page describing some design work I have done in the past.
 
 ### My main focus for this project
 This project contains no personal javascript code, intentionally. My focus has been directed toward writing readable HTML5 and CSS that would use proper elements, classes and ids, as well as just-enough styling rules that would complement bootstrap and other technologies utilized. This project should be rendered quite similarly in all modern browsers including IE, Mozilla Firefox, Google Chrome, and Edge.
